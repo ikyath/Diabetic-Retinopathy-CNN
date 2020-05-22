@@ -1,2 +1,2 @@
-# Diabetic_Retinopathy_CNN
+# Diabetic-Retinopathy-CNN
 In this repository,  I work with data from APTOS 2019 Blindness Detection competition where we find the severity of diabetic retinopathy using the image data and also we go through various hyperparmeters and find which the best paramteres to detect retinopathy, As the data is imbalanced, In the second notebook i have augmneted the data and had made better model, With the better hyperparamteres from the other notebook we are able to model better with data augmentation.
